@@ -6,7 +6,6 @@ import Home from "./components/Home";
 import About from "./components/About";
 
 function App() {
-
   return (
     <BrowserRouter>
       <Header />
@@ -17,7 +16,7 @@ function App() {
       </Routes>
       <Footer />
     </BrowserRouter>
-  )
+  );
 }
 
-export default App
+export default App;

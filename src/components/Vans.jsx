@@ -1,6 +1,4 @@
 function Vans() {
-    return (
-        <div>VANS</div>
-    )
+  return <div>VANS</div>;
 }
 export default Vans;

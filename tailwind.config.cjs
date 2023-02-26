@@ -4,9 +4,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'home': "url('./src/images/image-53.png')",
-      }
+        home: "url('./src/images/image-53.png')",
+      },
     },
   },
   plugins: [],
-}
+};
